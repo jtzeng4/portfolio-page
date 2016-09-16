@@ -1,37 +1,37 @@
-body{
+body {
     font-family: 'Lato', sans-serif;
-    color:#2d3c49;
-    font-weight:400;
+    color: #2d3c49;
+    font-weight: 400;
 }
 
-.color-light{
-    color:#7d97ad;
+.color-light {
+    color: #7d97ad;
 }
 
-.text-thin{
-    font-weight:100;
+.text-thin {
+    font-weight: 100;
 }
 
-.title-logo{
+.title-logo {
     margin-top: 20px;
     margin-left: 20px;
-    height:100px;
-    width:100px;
+    height: 100px;
+    width: 100px;
 }
 
-.title-super{
-    font-size:60px;
+.title-super {
+    font-size: 60px;
 }
 
-.image-centered{
+.image-centered {
     margin: auto;
 }
 
-.image-shrink{
+.image-shrink {
     height: 300px;
     width: 300px;
 }
-hr{
-    height:2px;
-    background-color:#7d97ad;
+hr {
+    height: 2px;
+    background-color: #7d97ad;
 }
