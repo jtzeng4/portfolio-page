@@ -1,5 +1,5 @@
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     color: #2d3c49;
     font-weight: 400;
 }
@@ -31,6 +31,7 @@ body {
     height: 300px;
     width: 300px;
 }
+
 hr {
     height: 2px;
     background-color: #7d97ad;
